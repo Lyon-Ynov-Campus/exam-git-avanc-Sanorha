@@ -1,0 +1,2 @@
+git reset est utilisé pour annuler x commit non push comme si ils n'avaient jamais existé
+et git revert c'ets pour annuler x commit sur un dépôt distant
